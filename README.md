@@ -1,7 +1,11 @@
 
+## LP2/AED2 project  
+
+This project is biuld with java and graphs!
+
 ## Made By 
 
-#Pedro Costa N 31179
-#Elisio Pinheiro N 31249
+#Pedro Costa   
+#Elisio Pinheiro 
 
 
