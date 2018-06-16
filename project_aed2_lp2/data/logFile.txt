@@ -1,0 +1,18 @@
+2018-06-14 22:43:57.285central eletrica criada: 5
+2018-06-14 22:43:57.3Fonte de energia criada: 4
+2018-06-14 22:43:57.3Fonte de energia criada: 6
+2018-06-14 22:43:57.3 -Casa 8 criada
+2018-06-14 22:43:57.316 -Casa 9 criada
+2018-06-14 22:43:57.316 -Casa 2 criada
+2018-06-14 22:43:57.316 -Casa 7 criada
+2018-06-14 22:43:57.316 -Casa 3 criada
+Equipamento PC criado
+Equipamento TV criado
+Equipamento FRIGORIFICO criado
+2018-06-14 22:43:57.332-Equipamento PC adicionado a casa 2
+2018-06-14 22:43:57.332-Equipamento PC adicionado a casa 8
+2018-06-14 22:43:57.332-Equipamento TV adicionado a casa 8
+2018-06-14 22:43:57.347-Equipamento FRIGORIFICO adicionado a casa 8
+2018-06-14 22:43:57.347-Equipamento TV adicionado a casa 9
+2018-06-14 22:43:57.347-Equipamento FRIGORIFICO adicionado a casa 9
+2018-06-14 22:43:57.347-Equipamento TV adicionado a casa 2

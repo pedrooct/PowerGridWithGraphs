@@ -1,2 +1,7 @@
-# PowerGridWithGraphs
-This is project for AED2/LP2 based in java with graphs.
+
+## Made By 
+
+#Pedro Costa N 31179
+#Elisio Pinheiro N 31249
+
+
